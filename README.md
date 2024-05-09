@@ -1,2 +1,2 @@
-# Blog_financas
-Atividade SENAI: criar um blog sobre finanças utilizando Bootstrap
+# Blog_Finan-as
+Atividade Senai - Blog de finanças (HTML e CSS)
